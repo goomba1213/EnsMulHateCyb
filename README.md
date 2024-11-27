@@ -21,3 +21,7 @@ ensallinone.py
 allensPred.py
 
 根據訓練好的模型進行預測並算分數
+
+GloVe english pre-trained word vectors 下載
+
+https://nlp.stanford.edu/projects/glove/
