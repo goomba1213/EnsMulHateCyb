@@ -25,3 +25,7 @@ allensPred.py
 GloVe english pre-trained word vectors 下載
 
 https://nlp.stanford.edu/projects/glove/
+
+中文詞嵌入向量 TMUNLP_1.6B_WB_300DIM_2020V1.BIN.GZ
+
+https://nlp.tmu.edu.tw/word2vec/index.html
